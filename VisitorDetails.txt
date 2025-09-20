@@ -1,0 +1,2 @@
+ID    Name                 Gender     Contact Number  Registration Date    Ticket Type     Ticket Price Artwork Name         Artwork Price   Discount        Reward Points.  Total Amount   
+1     Badal Shrestha       Male       9709028140      August/27/2025       Elite           2000.0       Passion              5000.00         2000.00         60000.00        3000.00        
